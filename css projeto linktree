@@ -1,0 +1,28 @@
+img {
+  border-radius: 75px;
+  border: 5px black
+}
+h2 {
+  font-size: 24px;
+}
+body {
+  background-image: url(https://i.pinimg.com/736x/e8/c2/85/e8c285f8bbdf45c3b312484326f3ba82.jpg);
+  color: whitesmoke;
+  font-family: 'Trebuchet MS';
+  text-align: center;
+}
+ a {
+   
+  background-image: url(https://i.pinimg.com/736x/db/64/a9/db64a98c70a688f6f509daf9c838be39.jpg
+  );
+  font-size: 20px;
+  border-radius: 10px;
+  width: 280px;
+  padding: 10px 40px;
+  display: 
+  text-align: center;
+  margin: 5px;
+  color: whitesmoke;
+   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+   
+}
